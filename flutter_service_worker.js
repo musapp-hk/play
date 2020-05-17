@@ -4,7 +4,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "d34215de62bf174105ffe6289024aa2b",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "79b886173eca027c0ce248404ff9b2ce",
+"assets/LICENSE": "4c46b7d8dedf7335f603051d00346183",
 "assets/media/background.png": "7271dec8fb4104ad26ec1f5548257293",
 "assets/media/poker/PNG/2C.png": "0a48263729daa80b56ba18c2482e5b51",
 "assets/media/poker/PNG/2D.png": "0e8c294520f1be95a40c1d9d302a190f",
@@ -59,7 +59,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "305634e56b391c1323db4f870117c8e7",
 "/": "305634e56b391c1323db4f870117c8e7",
-"main.dart.js": "50afc0f5f4064aeba81d5813d3fc1f67",
+"main.dart.js": "98b4a0aeb791fc004c6273b3f706d460",
 "manifest.json": "4edb3dd870974265082b29e12ed2c022"
 };
 
